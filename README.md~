@@ -30,7 +30,7 @@ path to the `tcp.lua` script:
     wireshark -X lua_script:./confundo.lua
 
 ## TODO
-  sdasd
+
     ###########################################################
     ##                                                       ##
     ## REPLACE CONTENT OF THIS FILE WITH YOUR PROJECT REPORT ##
